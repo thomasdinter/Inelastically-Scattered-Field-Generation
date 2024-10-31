@@ -1,5 +1,5 @@
 # Inelastically-Scattered-Field-From-a-Levitated-Dipolar-Scatterer
-This is the code used in the paper Dinter _et al._, "Towards precise 3D quantum control of a levitated dipolar scatterer using spatial mode decomposition". ArXiv (2024). DOI: https://doi.org/10.48550/arXiv.2409.08827 and Thomas Dinter's corresponding Masters of Research thesis. 
+This is the code used in Thomas Dinter's Masters of Research thesis and the corresponding paper (pre-print available at: https://doi.org/10.48550/arXiv.2409.08827).
 
 The code is used to:
 
